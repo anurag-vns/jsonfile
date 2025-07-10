@@ -1,0 +1,18 @@
+[
+   { 
+    "id": 1,
+    "name":"Subhman Gill",
+    "runs": 5678,
+    "hundreds": 10,
+    "fifties": 25,
+    "strikerate": 88.56
+},
+{
+     "id": 2,
+    "name":"KL Rahul",
+    "runs": 6878,
+    "hundreds": 15,
+    "fifties": 30,
+    "strikerate": 90.56
+}
+]
