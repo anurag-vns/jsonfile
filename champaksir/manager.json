@@ -1,0 +1,28 @@
+[
+{
+    "emp id": 1,
+    "emp name": "Anurag",
+    "technology": "React js"
+},
+{
+    "emp id": 2,
+    "emp name": "Vivan",
+    "technology": "java"
+},
+
+{
+    "emp id": 3,
+    "emp name": "Atharv",
+    "technology": "dot net"
+},
+{
+    "emp id": 4,
+    "emp name": "Ankur",
+    "technology": "DBA"
+},
+{
+    "emp id": 5,
+    "emp name": "shiva",
+    "technology": "AI"
+}
+]
