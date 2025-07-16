@@ -2,12 +2,13 @@
     {
         "name": "Maths",
         "url": "https://anurag-vns.github.io/jsonfile/champaksir/maths.json"
-    
     },
-
     {
-
         "name": "English",
+        "url": "https://anurag-vns.github.io/jsonfile/champaksir/english.json"
+    },
+    {
+        "name": "Computer",
         "url": "https://anurag-vns.github.io/jsonfile/champaksir/english.json"
     }
 ]
