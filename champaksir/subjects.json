@@ -1,13 +1,13 @@
 [
     {
         "name": "Maths",
-        "url": "mathsquiz.json"
+        "url": "https://anurag-vns.github.io/jsonfile/champaksir/maths.json"
     
     },
 
     {
 
         "name": "English",
-        "url": "englishquiz.json"
+        "url": "https://anurag-vns.github.io/jsonfile/champaksir/english.json"
     }
 ]
