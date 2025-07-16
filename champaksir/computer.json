@@ -1,0 +1,14 @@
+{
+    "subject":"Computer",
+    "quizzes":[
+        {
+            "name":"Fundamentals",
+            "url":"fundamentals.json"
+        },
+
+         {
+            "name":"Technology",
+            "url":"technology.json"
+        }
+    ]
+}
