@@ -1,0 +1,60 @@
+{
+    "Subject": "Maths",
+    "section": [
+        {
+            "Step-1": "Arithmetic",
+            "question": [
+                {
+                    "id": 1,
+                    "question": "what is  25+23=?",
+                    "options": [
+                        "45",
+                        "48",
+                        "45",
+                        "50"
+                    ],
+                    "correctAnswer": "48"
+                },
+                {
+                    "id": 2,
+                    "question": "what is  15*15=?",
+                    "options": [
+                        "545",
+                        "480",
+                        "225",
+                        "505"
+                    ],
+                    "correctAnswer": "225"
+                }
+            ]
+        },
+
+        {
+"Step-2": "Algebra",
+"question":[
+    {
+        "id": 3,
+        "question": "x + 2x=?",
+        "options":["5x","3x","2x","6x"],
+        "correctAnswer":"3x"
+    },
+
+    {
+        "id": 4,
+        "question": "x + 4 = 10?",
+        "options":["10","15","6","5"],
+        "correctAnswer":"6"
+    }
+    ]
+        },
+
+        {
+            "Step-3":"Geometry",
+            "question":[
+                {
+                    
+                }
+            ]
+        }
+    ]
+}
