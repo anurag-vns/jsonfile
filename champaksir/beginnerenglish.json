@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "question": "Which word means the same as 'happy'?",
+        "options": [
+            "Unhappy",
+            "Angry",
+            "Joyful",
+            "Tired"
+        ],
+        "answer": "Joyful"
+    },
+    {
+        "id": 1,
+        "question": "Choose the correct article: ___ apple a day keeps the doctor away.?",
+        "options": [
+            "A",
+            "An",
+            "The",
+            "No article"
+        ],
+        "answer": "An"
+    }
+]

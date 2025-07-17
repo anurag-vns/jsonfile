@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "question":"He ___ to school every day.",
+        "options": ["go", "goes", "gone", "going"],
+        "answer":"goes"
+    },
+
+    {
+        "id":2,
+        "question": "Identify the preposition: The book is on the table.",
+          "options": ["The", "Is", "On", "Book"],
+          "answer": "On"
+    }
+]

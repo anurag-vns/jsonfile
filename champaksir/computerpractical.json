@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "question": "How do you save a file in MS Word.?",
+        "options": [
+            "ctrl+z",
+            "ctrl+s",
+            "ctrl+x",
+            "none"
+        ],
+        "answer": "1"
+    },
+    
+    {
+        "id": 1,
+        "question": "how to print any data on body in react.?",
+        "options": [
+            "console.log();",
+            "printf();",
+            "document.write();",
+            "none"
+        ],
+        "answer": "2"
+    }
+]

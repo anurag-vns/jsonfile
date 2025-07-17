@@ -1,90 +1,14 @@
 {
     "Subject": "English",
-    "Section": [
+    "quizzes":[
         {
-            "Step-1": "Grammer Basic",
-            "question": [
-                {
-                    "id": 1,
-                    "question": "Which of the following is a noun?",
-                    "options": [
-                        "Run",
-                        "Happy",
-                        "Varanasi",
-                        "Quickly"
-                    ],
-                    "Answer": "Varanasi"
-                },
-                {
-                    "id": 2,
-                    "question": "An adjective describes a noun.?",
-                    "options": [
-                        "True",
-                        "False",
-                        "Never",
-                        "None"
-                    ],
-                    "Answer": "True"
-                }
-            ]
-        },
-        {
-           
-            "Step-2": "Vocabulary & Synonyms",
-            "question": [
-                {
-                    "id": 3,
-                    "question": "What is a synonym of 'Happy'?",
-                    "options": [
-                        "Sad",
-                        "Joyful",
-                        "Angry",
-                        "Lazy"
-                    ],
-                    "Answer": "Joyful"
-                },
-                {
-                    "id": 4,
-                    "question": "The opposite of 'hot' is ____.",
-                    "options": [
-                        "cold",
-                        "weather",
-                        "Raining",
-                        "None of these"
-                    ],
-                    "answer": "cold"
-                }
-            ]
+            "name":"Grammer",
+            "url":"grammer.json"
         },
 
-        {
-            "Step-3": "Vocabulary & Synonyms",
-            "question": [
-                {
-                    "id": 5,
-                    "question": "Which sentence is correct?",
-                    "options": [
-                        "He go to school every day.",
-                        "He goes to school every day.",
-                        "He gone to school every day.",
-                        "He going to school every day."
-                    ],
-                    "Answer": "He goes to school every day."
-                },
-                {
-                    "id": 6,
-                    "question": "What is Synonyms of “Learn”?",
-                    "options": [
-                        "write",
-                        "Read",
-                        "Understand",
-                        "Forget"
-                    ],
-                    "Answer": "Understand"
-                }
-            ]
-            
-        
-    }
-]
+         {
+            "name":"Poem",
+            "url":"poem.json"
+        }
+    ]
 }

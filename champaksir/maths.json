@@ -3,7 +3,7 @@
     "quizzes": [
         {
             "name":"Algebra",
-            "url":"algebra.json"
+            "url":"https://anurag-vns.github.io/jsonfile/champaksir/algebra.json"
         },
 
           {
@@ -13,7 +13,7 @@
 
           {
             "name":"Trigonometry",
-            "url":"algebra.json"
+            "url":"https://anurag-vns.github.io/jsonfile/champaksir/trigonometry.json"
           }
      
      
