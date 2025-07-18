@@ -2,13 +2,18 @@
     "Subject": "English",
     "quizzes":[
         {
-            "name":"Grammer",
-            "url":"grammer.json"
+            "name":"Beginner",
+            "url":"https://anurag-vns.github.io/jsonfile/champaksir/beginnerenglish.json"
         },
 
          {
-            "name":"Poem",
-            "url":"poem.json"
+            "name":"Intermediate",
+            "url":"https://anurag-vns.github.io/jsonfile/champaksir/intermediateenglish.json"
+        },
+
+         {
+            "name":"Advance",
+            "url":"https://anurag-vns.github.io/jsonfile/champaksir/advanceenglish.json"
         }
     ]
 }

@@ -1,0 +1,14 @@
+[{
+    "id":1,
+    "question":"who is the father of computer.?",
+    "options":["James","Charles Babbage","clark","none of these"],
+    "answer":"1"
+},
+
+{
+    "id":2,
+    "question":"what is the full form of CPU.?",
+    "options":["central","processing","central processing unit","none of these"],
+    "answer":"2"
+}
+]

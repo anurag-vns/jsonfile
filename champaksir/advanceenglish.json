@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "question": "What does the idiom 'once in a blue moon' mean?",
+        "options": [
+            "Very often",
+            "Very rarely",
+            "Always at night",
+            "Once a month"
+        ],
+        "answer": "Very rarely"
+    },
+    {
+        "id": 2,
+        "question": "Spot the error: She has went to the market.",
+        "options": [
+            "She",
+            "Has",
+            "Went",
+            "No error"
+        ],
+        "answer": "Went"
+    }
+]
